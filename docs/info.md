@@ -1,3 +1,9 @@
+# Dabz's Rules
+- 1) Minimize Restarts. Keep uptime above 99.99% at all times.
+- 2) Test before you push..
+- 3) All github commits must contain detail on whats changed
+- 4) All changes are forseen by Dabz, and none will be pushed to the server until approved by him.
+
 
 # FiveM Docs
 - Home | https://docs.fivem.net/docs/
@@ -83,8 +89,8 @@
 # FiveM/Lua Practices/Optimizations
 - Organize your resources into sub-folders | [vehicles] -> [cars], [boats], [planes] | etc.
 - Ensure on entire folders when possible ( ensure [qb-core] )
-- Dont use Citizen.CreateThread(), use CreateThread()
-- Dont use Citizen.Wait(), use Wait()
+- Dont use `Citizen.CreateThread()`, use `CreateThread()`
+- Dont use `Citizen.Wait()`, use `Wait()`
 - Use RegisterNetEvent("", function() end) for net events
 - Use AddEventHandler("", function() end) for non-net events
 - In server events, first set source equal to a constant (local src = source)
