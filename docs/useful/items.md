@@ -318,7 +318,10 @@
 - `emptybottle` -
 - `usedwrapper` -
 - `emptypapercup` -
-- `` -
+- `wood` -
+- `metal` -
+- `rope` -
+- `shovel` -
 
 
 

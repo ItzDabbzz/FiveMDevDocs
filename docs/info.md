@@ -3,6 +3,9 @@
 - 2) Test before you push..
 - 3) All github commits must contain detail on whats changed
 - 4) All changes are forseen by Dabz, and none will be pushed to the server until approved by him.
+- 5) The city relies heavily on Ox_Lib - https://overextended.dev/ox_lib
+- 5) All vehicles must use a certain format and structure when being added to the server.
+![logo](https://cdn.discordapp.com/attachments/1069879107732647967/1116183461892477018/image.png)
 
 
 # FiveM Docs
