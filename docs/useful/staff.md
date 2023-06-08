@@ -3,6 +3,11 @@
 ## User
 - `/walks` Allows a user to set a permenent walk style
 
+- `/frisbeestuck` If your frisbee is stuck in a place you cannot get to (up a tree, on a roof, under the map), get as close as possible and use:
+
+- `/nofg` If a client does not want to play and is concerned about the resource running, the main thread loop can be deactivated with:
+
+
 ## Police
 
 - `/jailstatus [opt: target]` 

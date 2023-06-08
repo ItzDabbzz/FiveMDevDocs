@@ -1,3 +1,7 @@
+# Home
+
+> Documents for Maple Hearts Roleplay - Development Team
+
 # Dabz's Rules
 - 1) Minimize Restarts. Keep uptime above 99.99% at all times.
 - 2) Test before you push.. Tune before you push.. Edit before you push.. Touch every single file in a resource, to make sure its 100% ready.
