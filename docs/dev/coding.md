@@ -31,18 +31,20 @@
 
 # Important Programs To Have
 - Visual Studio Code | Programming IDE | https://code.visualstudio.com/
-- XAMPP | For a quick and basic database | https://www.apachefriends.org/
-- Filezilla FTP Client | To connect to the file system of a remote machine | https://filezilla-project.org/
+- MariaDB | [https://www.apachefriends.org/](https://mariadb.org/download/)
 - HeidiSQL | Database IDE (or VSC extension: cweijan.vscode-mysql-client2) | https://www.heidisql.com/
+- Filezilla FTP Client | To connect to the file system of a remote machine | https://filezilla-project.org/
 - FiveM Server Artifacts | https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 - OpenIV | https://openiv.com/
 - Codewalker | https://discord.com/invite/BxfKHkk
 
 # Visual Studio Code Addons
-- VSC Snippets | https://forum.cfx.re/t/dev-release-visual-studio-code-native-snippets/289394
+- Lua Language Server | https://marketplace.visualstudio.com/items?itemName=sumneko.lua
+- OverExtended's CfxLua LLS Addon | https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode
 - Markdown All In One | https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-- Git Lens | https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
+- TODO Highlight | https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
+- Catppucin Theme | https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+- Catppucin Icons | https://marketplace.visualstudio.com/items?itemName=thang-nm.catppuccin-perfect-icons
 
 # Basics To Learn In Lua
 - Get an understanding of the Syntax | https://learnxinyminutes.com/docs/lua/
