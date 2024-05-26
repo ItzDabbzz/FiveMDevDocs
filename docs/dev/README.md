@@ -1,6 +1,6 @@
 # Home
 
-> Documents for Maple Hearts Roleplay - Development Team
+> Documents for Sanctum Roleplay - Development Team
 
 
 # VS Code Plugins
