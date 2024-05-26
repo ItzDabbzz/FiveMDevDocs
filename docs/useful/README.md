@@ -1,3 +1,3 @@
 # Home
 
-> Documents for Maple Hearts Roleplay
+> Documents for Sanctum Roleplay
